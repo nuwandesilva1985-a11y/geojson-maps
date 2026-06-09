@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ABH-1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Name": "ABH - 1", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 42.682193, 18.247053, 0.0 ], [ 42.613185, 18.340281, 0.0 ], [ 42.606495, 18.401464, 0.0 ], [ 42.580486, 18.420322, 0.0 ], [ 42.552418, 18.413771, 0.0 ], [ 42.444613, 18.344844, 0.0 ], [ 42.345736, 18.275418, 0.0 ], [ 42.38077, 18.203354, 0.0 ], [ 42.520831, 18.109728, 0.0 ], [ 42.78004, 17.977846, 0.0 ], [ 42.838749, 18.022906, 0.0 ], [ 42.871365, 18.021274, 0.0 ], [ 42.881321, 18.043473, 0.0 ], [ 42.825359, 18.127348, 0.0 ], [ 42.808193, 18.123106, 0.0 ], [ 42.682193, 18.247053, 0.0 ] ] ] } }
+]
+}
