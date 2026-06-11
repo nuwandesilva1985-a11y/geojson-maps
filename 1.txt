@@ -1,0 +1,72 @@
+QGIS version: 3.44.7-Solothurn
+QGIS code revision: ea262bc5ed8
+Qt version: 5.15.13
+Python version: 3.12.12
+GDAL version: 3.12.1
+GEOS version: 3.14.1-CAPI-1.20.5
+PROJ version: Rel. 9.7.1, December 1st, 2025
+PDAL version: 2.9.0 (git-version: 69639b)
+Algorithm started at: 2026-06-11T18:25:01
+Algorithm 'Merge vector layers' starting…
+Input parameters:
+{ 'ADD_SOURCE_FIELDS' : True, 'CRS' : None, 'LAYERS' : ['C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/ABH-1.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/DAM-1.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/DAM-2.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/DAM-3.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/DAW-N-1.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/DAW-N-2(new)-2nd.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/HAI-N-1.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/HAI-N-2.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/HAS-1.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/HAS-2.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/j-1.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/JED-E-1.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/(N)JED-E-2.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/JED-E-3.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/JED-N-1.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/JED-S-2.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/(N)JED-W-2.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/JIZ-1.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/JIZ-2.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/KBR-N-1.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/j-2-KFJ.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/KHS-1.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/MAJ-N-1.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/MAK-1.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/MAK-2.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/MAK-3.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/MED-1-n.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/MED-2-n.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/MED-3-n.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/MHL-1.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/QAS-BU-1.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/QAS-UN-1.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/QAS-UN-2.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/QAT-1.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/R-E-1(Updated).geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/R-E-2(Updated).geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/R-E-3.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/R-E-4(Updated).geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/R-N-1(4-26).geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/R-N-2(4-26)2.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/R-N-3.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/R-S-1 new-latest.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/R-S-2.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/R-S-3 new-latest.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/R-S-4 new.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/R-W-1.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/TAI-1.geojson','C:/Users/Nuwan Sandatharaka/OneDrive - Company NAO For Water and Soft Drinks/.Final Maps-forlink/TAI-2.geojson'], 'OUTPUT' : 'TEMPORARY_OUTPUT' }
+
+Taking destination CRS EPSG:4326 from layer
+Setting output type to PolygonZ
+drawOrder field in layer DAM-1 has different data type than the destination layer (Integer instead of String). drawOrder field will be converted to string type.
+drawOrder field in layer KBR-N-1 has different data type than the destination layer (Integer instead of String). drawOrder field will be converted to string type.
+Found a layer with multiparts, upgrading output type to MultiPolygonZ
+Packaging layer 1/48: ABH-1
+Packaging layer 2/48: DAM-1
+Packaging layer 3/48: DAM-2
+Packaging layer 4/48: DAM-3
+Packaging layer 5/48: DAW-N-1
+Packaging layer 6/48: DAW-N-2
+Packaging layer 7/48: HAI-N-1
+Packaging layer 8/48: HAI-N-2
+Packaging layer 9/48: HAS-1
+Packaging layer 10/48: HAS-2
+Packaging layer 11/48: JBL-1
+Packaging layer 12/48: JED-E-1
+Packaging layer 13/48: JED-E-2
+Packaging layer 14/48: JED-E-3
+Packaging layer 15/48: JED-N-1
+Packaging layer 16/48: JED-S-2
+Packaging layer 17/48: JED-W-2
+Packaging layer 18/48: JIZ-1
+Packaging layer 19/48: JIZ-2
+Packaging layer 20/48: KBR-N-1
+Packaging layer 21/48: KFJ-notStarted
+Packaging layer 22/48: KHS-1
+Packaging layer 23/48: MAJ-N-1
+Packaging layer 24/48: MAK-1
+Packaging layer 25/48: MAK-2
+Packaging layer 26/48: MAK-3
+Packaging layer 27/48: MED-1
+Packaging layer 28/48: MED-2
+Packaging layer 29/48: MED-3
+Packaging layer 30/48: MHL-1
+Packaging layer 31/48: QAS-BU-1
+Packaging layer 32/48: QAS-UN-1
+Packaging layer 33/48: QAS-UN-2
+Packaging layer 34/48: QAT-1
+Packaging layer 35/48: R-E-1
+Packaging layer 36/48: R-E-2
+Packaging layer 37/48: R-E-3
+Packaging layer 38/48: R-E-4
+Packaging layer 39/48: R-N-1
+Packaging layer 40/48: R-N-2
+Packaging layer 41/48: R-N-3
+Packaging layer 42/48: R-S-1
+Packaging layer 43/48: R-S-2
+Packaging layer 44/48: R-S-3
+Packaging layer 45/48: R-S-4
+Packaging layer 46/48: R-W-1
+Packaging layer 47/48: TAI-1
+Packaging layer 48/48: TAI-2
+Execution completed in 0.23 seconds
+Results:
+  OUTPUT: Merged_b6333728_34d4_4573_b535_3f3325a387e7
+
+Loading resulting layers
+Algorithm 'Merge vector layers' finished
